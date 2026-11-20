@@ -174,11 +174,11 @@ Este repositorio contiene un proyecto integrador desarrollado por el Grupo 6 par
 Algoritmos y Estructuras de Datos II de la Licenciatura en Sistemas de Información — Universidad Nacional del Nordeste (UNNE) (2026).
 
 ## INTEGRANTES:
-Flores, Clara Isabel
-Flores, Dana Ivone
-Godoy, Luana Vera Astrid
-González, Valentina Guadalupe
-Barrios, Yaquelin
-Denis, Facundo Jose
+1. Flores, Clara Isabel
+2. Flores, Dana Ivone
+3. Godoy, Luana Vera Astrid
+4. González, Valentina Guadalupe
+5. Barrios, Yaquelin
+6. Denis, Facundo Jose
 
 ```text
