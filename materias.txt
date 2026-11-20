@@ -1,0 +1,12 @@
+1;Algoritmos y Estructuras de Datos I
+2;Algoritmos y Estructuras de Datos II
+3;Algebra
+4;Logica y Matematica Computacional
+5;Sistemas y Organizaciones
+6;Calculo
+7;Paradigmas
+8;Arquitectura y Organizacion de Computadoras
+9;Base de Datos
+10;Sistemas Operativos
+11;Programacion Orientada a Objetos
+12;Ingles Tecnico
