@@ -86,14 +86,22 @@ sistema-gestion-academica-siga/
 └── README.md
 
  ## ARCHIVOS PRINCIPALES: 
-historial.c --> Programa principal, menú interactivo, validaciones cruzadas y Corte de Control.
-TDA_Alumno.h --> Implementación del Árbol Binario de Búsqueda (ABB) para el padrón de alumnos.
-TDA_MATERIA.h --> Implementación de Lista Enlazada Simple para el historial de calificaciones.
-TDA_PLANESTUDIOS.h --> Implementación de Grafo Dirigido No Ponderado mediante Matriz de Adyacencia.
-materias.txt --> Archivo de texto de entrada con el catálogo inicial de asignaturas.
-correlativas.txt --> Archivo de texto de entrada con las relaciones de precedencia (origen;destino).
-alumnos.dat --> Archivo binario para persistir el padrón de estudiantes.
-historial.dat --> Archivo binario para persistir los historiales académicos.
+## historial.c:
+Programa principal, menú interactivo, validaciones cruzadas y Corte de Control.
+## TDA_Alumno.h: 
+Implementación del Árbol Binario de Búsqueda (ABB) para el padrón de alumnos.
+## TDA_MATERIA.h:
+Implementación de Lista Enlazada Simple para el historial de calificaciones.
+## TDA_PLANESTUDIOS.h:
+Implementación de Grafo Dirigido No Ponderado mediante Matriz de Adyacencia.
+## materias.txt:
+Archivo de texto de entrada con el catálogo inicial de asignaturas.
+## correlativas.txt:
+Archivo de texto de entrada con las relaciones de precedencia (origen;destino).
+## alumnos.dat:
+Archivo binario para persistir el padrón de estudiantes.
+## historial.dat:
+Archivo binario para persistir los historiales académicos.
 
 
 ## COMO FUNCIONA:
